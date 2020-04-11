@@ -1,7 +1,7 @@
 const services = [
   {
     category: 'aerospace',
-    service: 'skill1',
+    service: 'skill1', 0000
     title: 'title',
     details: 'details',
     images: ['filename1', 'filename2']
